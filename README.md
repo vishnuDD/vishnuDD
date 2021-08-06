@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @vishnuDD
-- 👀 I’m interested in photography
-- 🌱 I’m currently learning photoshop
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning c++
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vishnudevkt@gmail.com
 
