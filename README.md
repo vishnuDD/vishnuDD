@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vishnuDD
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning basics
 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for someone who can be my master 
 - 📫 How to reach me vishnudevkt@gmail.com
 
 <!---
